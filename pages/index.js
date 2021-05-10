@@ -1,10 +1,11 @@
 import { sanityClient } from '../sanity'
+import Property from './property/[slug]'
  
 const Home = ({ properties }) => {
    console.log(properties)
   return (
-    <>
-    </>
+  <>  
+  </>
   )
 }
 
